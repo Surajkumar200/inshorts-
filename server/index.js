@@ -5,7 +5,7 @@ import Connection from './connection/db.js';
 import DefaultData from './default.js';
 
 import bodyParser from 'body-parser';
-import Route from './routes/Route.js';
+import Route from './routes/route.js';
 
 
 const app = express();
